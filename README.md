@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   
@@ -39,16 +39,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
   
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> 
   </a> 
   
-   <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="rust" width="40" height="40"/> 
+  <a href="https://soliditylang.org" target="_blank" rel="noreferrer"> 
+   <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="rust" width="40" height="40"/> 
   </a> 
     
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
