@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **adedejiyusuf26@gmail.com**
 
-- 😄 Pronouns: **He, Him, You..**
+- 😄 Pronouns: **He, Him**
 
 - ⚡ Fun fact: **Love trying new things**
 
